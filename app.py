@@ -9,7 +9,7 @@ st.set_page_config(
     layout="centered"
 )
 
-model = joblib.load("cat_dog_model.pkl")
+model = joblib.load("Male_Female_model.pkl")
 
 IMG_SIZE = 64
 
